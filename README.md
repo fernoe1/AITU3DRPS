@@ -67,7 +67,7 @@ React[^5] and Zustand[^6] will be used to build the user interface and manage ap
 ### Project documentation[^9]
 
 [^8]: https://aitu3drps.youtrack.cloud/projects/RPS
-[^9]: Need to make this
+[^9]: https://github.com/fernoe1/AITU3DRPS/tree/main/doc
 
 &nbsp;
 
