@@ -1,4 +1,4 @@
-> # Initial Requirements and acceptance criteria
+> # Initial requirements and acceptance criteria
 
 > ## Purpose
 This document defines the initial functional and non-functional requirements for AITU3DRPS. Requirements may be refined with the diploma work supervisor as the prototype develops.
