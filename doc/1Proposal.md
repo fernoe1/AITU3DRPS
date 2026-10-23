@@ -20,7 +20,7 @@ Develop a functional web application that allows users to explore a virtual 3D c
 > ## Scope
 
 > ### Included
-A web application built with React, TypeScript, Vite, Three.js, and React Three Fiber. 3D assets modeled or prepared in Blender. A virtual map of the selected AITU campus area, beginning with the existing Main Campus indoor demo. Selectable locations such as rooms, lecture halls, entrances, and facilities represented in the map data. Route calculation between selected locations. 3D route visualization and basic route information. Functional testing and evaluation of the prototype.
+A web application built with React, JavaScript (JSX), Vite, Three.js, and React Three Fiber. 3D assets modeled or prepared in Blender. A virtual map of the selected AITU campus area, beginning with the existing Main Campus indoor demo. Selectable locations such as rooms, lecture halls, entrances, and facilities represented in the map data. Route calculation between selected locations. 3D route visualization and basic route information. Functional testing and evaluation of the prototype.
 
 > ### Excluded
 Mapping the user's real-world GPS location to a position on the virtual 3D map.
