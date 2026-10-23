@@ -1,0 +1,9 @@
+flowchart TD
+    U[User] --> UI[React UI]
+    UI --> APP[Application State and Location Selection]
+    APP --> ROUTER[Route Planning Module]
+    ROUTER --> GRAPH[Campus Route Graph]
+    ROUTER --> RESULT[Route Result and Distance]
+    RESULT --> SCENE[React Three Fiber Scene]
+    ASSET[Blender GLB/GLTF Assets] --> SCENE
+    APP --> SCENE

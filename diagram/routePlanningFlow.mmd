@@ -1,0 +1,11 @@
+flowchart TD
+    A[Select start and destination] --> B{Both locations valid?}
+    B -- No --> C[Show selection prompt]
+    B -- Yes --> D[Resolve graph nodes]
+    D --> E[Run A* or Dijkstra]
+    E --> F{Route found?}
+    F -- No --> G[Show no-route message]
+    F -- Yes --> H[Build ordered node path]
+    H --> I[Calculate route distance]
+    I --> J[Render highlighted route in 3D]
+    J --> K[Display route details]
