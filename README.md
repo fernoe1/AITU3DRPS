@@ -56,6 +56,12 @@ React[^5] and Zustand[^6] will be used to build the user interface and manage ap
 
 > ## YouTrack project and project documentation
 
+> [!IMPORTANT]
+> Make sure to login using the committee account to view other users.
+>
+> Username: committee
+>
+> Password: committee
 ### YouTrack project[^8]
 
 ### Project documentation[^9]
